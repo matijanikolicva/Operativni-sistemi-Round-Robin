@@ -1,0 +1,16 @@
+==============================================
+   REZULTATI ROUND ROBIN ALGORITMA
+==============================================
+Vremenski kvant: 4 ms
+
+ID    Naziv           Pristizanje  Izvrsavanje  Zavrsavanje  Okretanje    Kasnjenje   
+---   --------------- ------------ ------------ ------------ ------------ ------------
+1     Chrome          0            5            16           16           11          
+2     Spotify         1            3            7            6            3           
+3     Discord         2            7            19           17           10          
+4     VSCode          3            4            15           12           8           
+
+----------------------------------------------
+Prosecno vreme okretanja : 12.75 ms
+Prosecno vreme kasnjenja : 8.00 ms
+==============================================
