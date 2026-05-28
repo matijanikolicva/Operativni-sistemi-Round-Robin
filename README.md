@@ -13,7 +13,6 @@ Algoritmi dodele procesora procesima - Round Robin algoritam.
 - `round_robin.c` - programski kod u C jeziku
 - `procesi.txt` - primer ulazne datoteke sa procesima
 - `rezultati_rr.txt` - primer izlazne datoteke sa rezultatima simulacije
-- `slike/` - slike i dijagrami korišćeni u radu, ako su dodati posebno
 
 ## Opis programa
 
