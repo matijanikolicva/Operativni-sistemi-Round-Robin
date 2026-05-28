@@ -26,3 +26,10 @@ Primer kompajliranja:
 
 ```bash
 gcc round_robin.c -o round_robin
+
+Autor
+
+Ime i prezime: Matija Nikolić
+Broj indeksa: SI 39/24
+Fakultet: Tehnički fakultet "Mihajlo Pupin", Zrenjanin
+Predmet: Operativni sistemi
